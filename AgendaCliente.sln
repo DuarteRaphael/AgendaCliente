@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendaCliente.Service.Api", "AgendaCliente.Service.Api\AgendaCliente.Service.Api.csproj", "{F15FCF3C-7E91-4C03-B15C-A00DD5A140D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F15FCF3C-7E91-4C03-B15C-A00DD5A140D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F15FCF3C-7E91-4C03-B15C-A00DD5A140D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F15FCF3C-7E91-4C03-B15C-A00DD5A140D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F15FCF3C-7E91-4C03-B15C-A00DD5A140D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C81C3BA4-6FF0-4FD0-9065-1826DC6C339E}
+	EndGlobalSection
+EndGlobal
